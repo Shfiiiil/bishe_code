@@ -1,0 +1,19 @@
+
+#  input files
+*.csv
+*.txt
+*.xlsx
+*.xls
+*.json
+
+# figures
+*.png
+*.jpg
+*.fig
+
+# compressed
+*.zip
+*.rar
+
+# 全局注释下的特例
+#!/pretreat/origin_jsondata/*.json
